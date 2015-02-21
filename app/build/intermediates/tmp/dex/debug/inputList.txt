@@ -1,0 +1,5 @@
+/home/michal/AndroidStudioProjects/IDomApp2/app/build/intermediates/classes/debug
+/home/michal/AndroidStudioProjects/IDomApp2/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-05f9715cf9fc1b189f0103fcf95ef25a3d833a5a.jar
+/home/michal/AndroidStudioProjects/IDomApp2/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-51d89bff26cb04d0813c1025f98d96888ee3fe03.jar
+/home/michal/AndroidStudioProjects/IDomApp2/app/build/intermediates/pre-dexed/debug/classes-36603b9ef1a9349de3455c98d627fd47429ce04c.jar
+/home/michal/AndroidStudioProjects/IDomApp2/app/build/intermediates/pre-dexed/debug/classes-d38fc6d20fd5fb78c66d54abecbb90886847b435.jar

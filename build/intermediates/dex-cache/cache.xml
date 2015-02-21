@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/michal/AndroidStudioProjects/IDomApp2/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/home/michal/AndroidStudioProjects/IDomApp2/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-51d89bff26cb04d0813c1025f98d96888ee3fe03.jar" />
+    </item>
+    <item
+        jar="/home/michal/AndroidStudioProjects/IDomApp2/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/home/michal/AndroidStudioProjects/IDomApp2/app/build/intermediates/pre-dexed/debug/classes-d38fc6d20fd5fb78c66d54abecbb90886847b435.jar" />
+    </item>
+    <item
+        jar="/home/michal/AndroidStudioProjects/IDomApp2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/home/michal/AndroidStudioProjects/IDomApp2/app/build/intermediates/pre-dexed/debug/classes-36603b9ef1a9349de3455c98d627fd47429ce04c.jar" />
+    </item>
+    <item
+        jar="/home/michal/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/home/michal/AndroidStudioProjects/IDomApp2/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-05f9715cf9fc1b189f0103fcf95ef25a3d833a5a.jar" />
+    </item>
+
+</items>
